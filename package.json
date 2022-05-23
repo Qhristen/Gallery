@@ -1,6 +1,5 @@
 {
   "name": "gallery-wallpaper",
-  "homepage": "http://desire39.github.io/gallery",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
